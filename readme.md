@@ -1,2 +1,1 @@
 streamlit study
-*local test
